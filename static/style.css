@@ -1,0 +1,13 @@
+.banner{
+    background-color:cadetblue;
+    width: 100%;
+    height: 100px;
+    margin-bottom: 5px;
+}
+
+.banner-text{
+    top:5%;
+    left: 50%;
+    position: absolute;
+    
+}
